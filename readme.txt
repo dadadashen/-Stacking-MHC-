@@ -14,3 +14,4 @@ picture
 	详细讲解和所有代码
 word2vec_s04.model
 	word2vec模型，size=4
+https://github.com/dadadashen/-Stacking-MHC-.git
